@@ -1,6 +1,6 @@
 ### Hey, I'm Deepak 👋
 
-**Platform engineer — 14 years securing and running production systems across banking, gaming and e-commerce.**
+**Platform Engineer — 14 years securing and running production systems across Banking, Gaming and E-Commerce.**
 
 I build control planes for fleets: provisioning, drift, observability, safe change. I like systems that are observable, automatable, and opinionated about reliability.
 
